@@ -1,6 +1,6 @@
 # Stock_Analysis
 
-#Challenge 2: Refractoring Code 
+#Challenge 2: Refactoring Code 
 
 The existing code to prepare and analyze various stock data took quite some time to complete. The following improvements were made which significantly decreased the time to execute: 
 
